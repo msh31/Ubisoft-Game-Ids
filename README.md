@@ -259,6 +259,7 @@ List of GAME ID's in Uplay by Ubisoft
 1713 - Skull and Bones  
 1832 - Zombi (Uplay+Steam)  
 2070 - Trackmania Turbo  
+2130 - Skull and Bones (Steam)  
 2170 - Champions of Anteria (Steam)  
 2988 - Silent Hunter 2  
 2992 - Panzer General 3D Assault  
