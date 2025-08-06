@@ -283,8 +283,8 @@ List of GAME ID's in Uplay by Ubisoft
 3774 - Monopoly Plus  
 3775 - Monopoly Plus (Steam)  
 4472 - Steep Open Beta (Steam)  
-4740 - Avatar: Frontier of Pandora (Uplay)  
-5093 - Avatar: Frontier of Pandora (Steam)  
+4740 - Avatar: Frontiers of Pandora (Uplay)  
+5093 - Avatar: Frontiers of Pandora (Steam)  
 4502 - South Park: The Fractured But Whole (Steam)  
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
