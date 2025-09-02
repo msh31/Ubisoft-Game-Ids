@@ -23,6 +23,7 @@ List of GAME ID's in Uplay by Ubisoft
 934 - Assassin's Creed® Rogue (Steam Version)  
 944 - Assassin's Creed Unity (RU)  
 945 - Assassin's Creed Unity (RU) (Steam Version)  
+1081 - Assassin's Creed® Shadows (Steam Version)  
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
@@ -50,11 +51,10 @@ List of GAME ID's in Uplay by Ubisoft
 6100 - Assassin's Creed® Mirage  
 6101 - Assassin's Creed® Mirage (Steam)  
 7013 - Assassin's Creed® Valhalla (Steam)  
+8006 - Assassin's Creed® Shadows  
 11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
-1081 - Assassin's Creed® Shadows (Steam)  
-8006 - Assassin's Creed® Shadows  
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
@@ -142,6 +142,7 @@ List of GAME ID's in Uplay by Ubisoft
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
 4554 - Anno 1800 (Uplay+Steam)  
+6245 - Anno 117: Pax Romana (Steam Demo)
 13800 - Anno 1800 - Open Beta  
 16232 - Anno 1404 - History Edition  
 16234 - Anno 1503 - History Edition  
@@ -259,7 +260,6 @@ List of GAME ID's in Uplay by Ubisoft
 1713 - Skull and Bones  
 1832 - Zombi (Uplay+Steam)  
 2070 - Trackmania Turbo  
-2130 - Skull and Bones (Steam)  
 2170 - Champions of Anteria (Steam)  
 2988 - Silent Hunter 2  
 2992 - Panzer General 3D Assault  
@@ -283,14 +283,13 @@ List of GAME ID's in Uplay by Ubisoft
 3774 - Monopoly Plus  
 3775 - Monopoly Plus (Steam)  
 4472 - Steep Open Beta (Steam)  
-4740 - Avatar: Frontiers of Pandora (Uplay)  
-5093 - Avatar: Frontiers of Pandora (Steam)  
+4740 - Avatar: Frontier of Pandora (Uplay)  
 4502 - South Park: The Fractured But Whole (Steam)  
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
 5487 - Riders Republic  
-5480 - Riders Republic (Steam)
+5480 - Riders Republic (Steam)   
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
 5726 - Immortal Fenyx Rising™ Demo  
