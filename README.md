@@ -155,6 +155,7 @@ List of GAME ID's in Uplay by Ubisoft
 507 - The Crew (Russian)  
 665 - The Crew 2 (Steam Version)  
 750 - The Crew (Beta)  
+922 - The Crew Motorfest (Steam)
 2855 - The Crew 2 (Uplay Connect)  
 5037 - The Crew 2  
 
